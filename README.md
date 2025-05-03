@@ -15,7 +15,7 @@ VeilSeek is a minimal Python-based directory brute-forcer written for security t
 - `requests` library
 
 Install with:
-```pip install -r requirements.txt```
+```pip install requests```
 
 ## Usage
 
