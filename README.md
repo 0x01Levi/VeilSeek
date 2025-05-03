@@ -19,7 +19,7 @@ Install with:
 
 ## Usage
 
-```python3 v1.py -u <target_url> -w <wordlist_path> [-v]```
+```python3 VeilSeek_v1.0.py -u <target_url> -w <wordlist_path> [-v]```
 
 ## Arguments:
 
