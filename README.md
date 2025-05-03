@@ -31,7 +31,7 @@ Install with:
 
 Example:
 
-```python3 v1.py -u http://10.10.10.10/ -w wordlist.txt -v```
+```python3 VeilSeek_v1.0.py -u http://10.10.10.10/ -w wordlist.txt -v```
 
 Disclaimer
 
